@@ -11,6 +11,6 @@ A website that is the portfolio of Sean Gillespie.
 https://seene3.github.io/My-Portfolio/
 
 ## Screenshot
-![screenshot 1](Images/Portfolio-screenshot-1.PNG)
+![screenshot 1](assets/Images/Portfolio-screenshot-1.PNG)
 
-![screenshot 2](Imgaes/Portfolio-screenshot-2.PNG)
+![screenshot 2](assets/Imgaes/Portfolio-screenshot-2.PNG)
