@@ -186,3 +186,9 @@ header nav ul {
     display: flex;
     width: 88.5vw;
 }
+
+@media screen and (max-width: 768px) {
+    .about-me article {
+        display: block;
+    }
+}
