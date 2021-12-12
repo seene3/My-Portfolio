@@ -130,7 +130,11 @@ header nav ul {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.29);
 }
 
-.work-links a:first-child div {
+#work-one {
+    background-image: url('../Images/dinner-time-screenshot2.PNG');
+}
+
+#work-two {
     background-image: url('../Images/run-buddy-img.PNG');
 }
 
