@@ -131,10 +131,14 @@ header nav ul {
 }
 
 #work-one {
-    background-image: url('../Images/easy-res-screenshot2.PNG');
+    background-image: url('../Images/easy-res-v2.png');
 }
 
 #work-two {
+    background-image: url('../Images/easy-res-screenshot2.PNG');
+}
+
+#work-three {
     background-image: url('../Images/dinner-time-screenshot2.PNG');
 }
 
